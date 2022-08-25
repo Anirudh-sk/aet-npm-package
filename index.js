@@ -15,11 +15,11 @@ function aet(func1, func2) {
 }
 function findTime(fun){
     let start= +Date.now()
-    console.log(Date.now());
+    // console.log(Date.now());
     fun()
-    console.log(Date.now());
+    // console.log(Date.now());
     let end= +Date.now()
-    console.log(end-start);
+    // console.log(end-start);
     return end-start
 }
 
