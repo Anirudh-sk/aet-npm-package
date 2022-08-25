@@ -1,0 +1,26 @@
+{
+  "name": "aet-time",
+  "version": "1.0.0",
+  "description": "a package that finds the faster algorithm among two",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anirudh-sk/aet-npm-package.git"
+  },
+  "keywords": [
+    "aet",
+    "algorithm",
+    "time",
+    "complexity",
+    "comparison"
+  ],
+  "author": "Sai Anirudh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anirudh-sk/aet-npm-package/issues"
+  },
+  "homepage": "https://github.com/Anirudh-sk/aet-npm-package#readme"
+}
