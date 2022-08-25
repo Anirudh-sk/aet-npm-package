@@ -97,7 +97,7 @@ Replace the dummy functions `fun1` and `fun2` with the algorithms you made and w
 
 ## Contributing
 
-Feel free to contribute to this project by opening issues and pull requests
+Feel free to contribute to this project by opening [issues](https://github.com/Anirudh-sk/aet-npm-package/issues) and [pull requests](https://github.com/Anirudh-sk/aet-npm-package/pulls)
 
 # Licence
 
