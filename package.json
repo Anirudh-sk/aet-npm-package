@@ -1,6 +1,6 @@
 {
   "name": "aet-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a package that finds the faster algorithm among two",
   "main": "index.js",
   "scripts": {
