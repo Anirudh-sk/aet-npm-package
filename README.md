@@ -11,8 +11,8 @@
 
 
 <p align="center">
-<a href="https://www.npmjs.com/package/aet-time"><img src="https://img.shields.io/npm/v/mocha.svg" alt="NPM Version"></a>
-<a href="https://github.com/Anirudh-sk/aet-npm-package"><img src="https://img.shields.io/node/v/mocha.svg" alt="Node Version"></a>
+<a href="https://www.npmjs.com/package/aet-time"><img src="https://img.shields.io/npm/v/aet-time" alt="NPM Version"></a>
+<a href="https://github.com/Anirudh-sk/aet-npm-package"><img src="https://img.shields.io/node/v/aet-time" alt="Node Version"></a>
 <a href="https://github.com/Anirudh-sk/aet-npm-package/blob/master/LICENCE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Jest is released under the MIT license." />
   </a>
